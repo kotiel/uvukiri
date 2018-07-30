@@ -45,6 +45,10 @@ Email uvukiri@gmail.com
 > K.
 ```
 
+<p align="center" >
+  <img src="uvukiri-github-01-1080x566.jpg" title="UvuKCube" float=left>
+</p>
+
 License Creative Commons (BY) (SA) (NC) https://creativecommons.org/licenses/by-nc/4.0/
 
 Licence Creative Commons Français (BY) (SA) (NC) https://creativecommons.org/licenses/by-nc/4.0/deed.fr
